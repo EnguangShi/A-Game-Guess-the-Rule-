@@ -18,9 +18,12 @@ this dice appears, but you must use whatever the number you rolled.
 
 ##  Spoiler Alert!
 
-Don't read this before playing the game.
+## Rules (Don't read this before playing the game.)
 
-## Rules
+
+
+
+
 
 1.  The first time a button is pressed, entry 1 will expand.
 2.  The green button expands an entry based on the number.
