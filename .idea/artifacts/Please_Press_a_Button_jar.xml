@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Please Press a Button:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Please_Press_a_Button_jar</output-path>
+    <root id="archive" name="Please Press a Button.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Please Press a Button" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-jupiter-5.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-jupiter-api-5.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apiguardian-api-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/opentest4j-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-platform-commons-1.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-jupiter-params-5.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-jupiter-engine-5.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-platform-engine-1.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/json-20200518.jar" path-in-jar="/" />
+      <element id="library" level="project" name="json-20200518" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/junit-jupiter-5.4.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/junit-jupiter-api-5.4.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/apiguardian-api-1.0.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/opentest4j-1.1.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/junit-platform-commons-1.4.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/junit-jupiter-params-5.4.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/junit-jupiter-engine-5.4.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/junit-platform-engine-1.4.2.jar" />
+    </root>
+  </artifact>
+</component>

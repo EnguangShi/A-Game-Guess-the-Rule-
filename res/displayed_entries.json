@@ -1,0 +1,12 @@
+{"DisplayedEntries": [
+    {"1": "1. The first time a green or red button is pressed, this entry expands."},
+    {"2": "2. The green button expands an entry based on the number you choose."},
+    {"3": "3. ---- -- ----- -- --------, --- ----- ----- -- --------- -- -."},
+    {"4": "4. --- --- ------ ------- -- ----- ----- -- --- ------ --- ------."},
+    {"5": "5. ---- -- ----- -- -------, --- ----- ----- -- --------- -- -."},
+    {"6": "6. When the alpha count reaches 5, the game crashes."},
+    {"7": "7. ---- --- ------- --------- --- --------, --- ---."},
+    {"8": "8. --- --- ------ --- ---- ------ -- -------- -- --- ---- ---- --- ----."},
+    {"9": "9. If a nonexistent entry is interfered with, the game crashes."},
+    {"num": 6}
+]}
