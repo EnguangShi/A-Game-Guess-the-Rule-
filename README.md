@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a game you have no idea how to play. You don't know the content ,and you also don't know the rules. There are only small objects in front of you like buttons and dices. All you can do is to do something with these objects. Your operation will lead to hints or barriers, sometimes even failure. As the game progresses, you will learn more and more about the content and rules of the game. Try to win the game with minimum attempts.
+This is a game that you don't know the rules. You can only see small objects like buttons and dices. All you can do is to fiddle with these objects. Your operation will lead to hints or barriers, sometimes even failure. As the game progresses, you will learn more and more about the content and rules of the game. Try to win the game with minimum attempts.
 
 ## User Interface
 
